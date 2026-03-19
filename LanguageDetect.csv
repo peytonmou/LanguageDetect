@@ -1,0 +1,363 @@
+sentence,language,langdetect,lingua
+"Once upon a time, there was a young man called Ma Liang.",en,en,en
+He was poor and kind and liked drawing so much that he drew pictures everywhere.,en,en,en
+"One night, he dreamed that an old man gave him a magic paintbrush and asked him to use it to help poor people.",en,en,en
+"When he woke up, he found the magic paintbrush on his desk.",en,en,en
+"From that day on, he used the paintbrush whenever poor people needed help.",en,en,en
+"When he saw that people had no water to use in the fields, he drew a river and the river came to life.",en,en,en
+People could bring water from the river to the field to help their crops grow.,en,en,en
+"When he saw the hard working farmers struggling to feed their families, he drew more food for them to eat.",en,en,en
+"Soon, many people knew about the magic paintbrush and were very grateful to Ma Liang.  ",en,en,en
+"But in the village, there lived a rich man who was mean and decided to steal the paintbrush from the young man so that he could use it to become even richer.",en,en,en
+So he sent his servants to Ma Liang's home to steal the magic paintbrush.,en,en,en
+"Once he had the paintbrush, he felt very happy and he invited his friends to come to his home so that he could show them his new possession.",en,en,en
+"He drew a lot of pictures, but none of them would come to life for him.",en,en,en
+He was very angry that the paintbrush would not work for him so he sent for Ma Liang.,en,en,en
+"He said to the young man, ""If you draw some pictures for me and bring them to life, I will set you free.""",en,en,en
+"Ma Liang did not want to help such a bad man, but he had an idea.  ",en,en,en
+"He said to the bad man, ""What would you like me to draw?""",en,en,en
+"The rich man said, ""I want a golden mountain.",en,en,en
+"I will go there to gather gold.""",en,en,en
+But the young man drew a sea first.,en,en,en
+"The rich man was angry and said,"" Why did you draw a sea?",en,en,en
+I want a golden mountain.,en,en,en
+"Draw it quickly!""",en,en,en
+So the young man drew a golden mountain which was far away from the sea.,en,en,en
+"The rich man said, ""Draw a big ship quickly.",en,en,en
+"I want to go there to gather gold.""",en,en,en
+The young man smiled quietly and drew a big ship.,en,en,en
+"The rich man jumped into the ship and set off to find the gold but when the ship sailed to the middle of the sea, Ma Liang drew a large wave which destroyed the ship and the rich man was never seen in the village again.",en,en,en
+"After that, the young man lived with his family happily and used the magic paintbrush to help the poor people as the old man had asked him to do and the magic paintbrush was known and loved by everyone.",en,en,en
+"Un racconto popolare cinese            * C'era una volta, un giovane di nome Ma Liang.",it,it,it
+"Era un ragazzo povero e gentile, a cui piaceva così tanto disegnare, che faceva dei disegni ovunque andava.",it,it,it
+"Una notte, sognò che un vecchio gli aveva dato un pennello magico chiedendogli di usarlo per aiutare i poveri.",it,it,it
+"Quando si svegliò, trovò il pennello magico sulla sua scrivania.",it,it,it
+"Da quel giorno, usò il pennello ogni volta che la gente povera aveva bisogno di aiuto.",it,it,it
+"Quando vedeva che le persone non avevano acqua da utilizzare nei campi, disegnava un fiume e il fiume diventava realtà.",it,it,it
+"La gente poteva così portare l'acqua dal fiume al campo, per aiutare il raccolto a crescere.",it,it,it
+"Quando vedeva i contadini che lavoravano duro e che avevano difficoltà a sfamare le loro famiglie, disegnava tanto cibo, cosicché lo potessero mangiare.  ",it,it,it
+Ben presto molte persone erano venute a conoscenza di questo pennello magico ed erano molto grate a Ma Liang.  ,it,it,it
+"Ma in paese, viveva un uomo ricco che era molto perfido e decise di rubare il pennello dal giovane, in modo che potesse usarlo per diventare ancora più ricco.",it,it,it
+Così mandò i suoi servi a casa di Ma Liang per rubargli il pennello magico.,it,it,it
+"Una volta che ottenne il pennello, si sentì molto felice e invitò i suoi amici a venire a casa sua, in modo che potesse mostrare loro il suo nuovo tesoro.",it,it,it
+"Disegnò un sacco di immagini, ma nessuna di queste prese vita.",it,it,it
+"Era così arrabbiato del fatto che il pennello non funzionasse con lui, che mandò a chiamare Ma Liang.  ",it,it,it
+Disse al giovane:,it,it,it
+"""Se disegni alcune immagini per me e le fai diventare realtà, ti libererò.",it,it,it
+"""  Ma Liang non voleva aiutare un uomo così malvagio, ma gli venne un'idea.  ",it,it,it
+"""Cosa vuoi che disegni?",it,it,it
+” disse all’uomo cattivo.,it,it,it
+E l'uomo ricco gli rispose:,it,it,it
+"""Voglio una montagna d'oro ed io andrò lì per prendere l'oro.",it,it,it
+"""   Ma il giovane, invece, disegnò il mare.  ",it,it,it
+Il ricco si arrabbiò e disse:,it,it,it
+""" Perché hai disegnato il mare?",it,it,it
+Io volevo una montagna d'oro.,it,it,it
+Disegnala subito!,it,it,it
+""" Così il giovane disegnò una montagna d'oro, che era lontanissima dal mare.",it,it,it
+L'uomo ricco disse:,it,it,it
+"""Disegna subito una grande nave.",it,it,it
+Voglio andare lì per prendere l'oro.,it,it,it
+:  中国的民间传说              很久以前，有个年轻人名叫马良，他家境贫寒却心地善良。,zh-cn,zh-cn,zh-cn
+他十分喜爱画画，在每件东西上都会画上几幅。,zh-cn,zh-cn,zh-cn
+一天晚上，他做了一个梦，梦里一个老人给了他一支神奇的画笔，并让他用这支画笔去帮助那些贫苦的人。,zh-cn,zh-cn,zh-cn
+他醒来时发现这支神笔就躺在自己的桌子上。,zh-cn,zh-cn,zh-cn
+从那天起，每当有人需要帮助时，马良就会用这支神笔去帮助他们。,zh-cn,zh-cn,zh-cn
+当看见人们没有水来种田时，他就画出一条河，河水哗哗地流动起来，人们就能从河里取水来浇灌庄稼了；当看到辛苦的农民们没有足够的粮食吃时，他就画出一些食物来给他们填肚子。,zh-cn,zh-cn,zh-cn
+没过多久，很多人都知道了神笔的故事，并且非常感激马良。  但是在村庄里住着一个有钱的大财主，非常吝啬卑鄙。,zh-cn,zh-cn,zh-cn
+他决定从马良手中偷走画笔，让自己变得更富有。,zh-cn,zh-cn,zh-cn
+于是他命令家里的仆人去马良家里偷这支神笔。,zh-cn,zh-cn,zh-cn
+神笔到手后，财主觉得非常开心，邀请朋友们来家里做客，这样他便可以炫耀一下自己的新宝贝。,zh-cn,zh-cn,zh-cn
+他画了很多幅画，但是没有一幅变成真的。,zh-cn,zh-cn,zh-cn
+画笔似乎并不听从于他，为此他十分生气，于是他又将画笔还给了马良。  他对马良说：“如果你替我画几幅画并且把他们都变成真的，我就放了你。”,zh-cn,zh-cn,zh-cn
+马良并不想帮助这个可恶的财主，这时他忽然想到了一个主意。,zh-cn,zh-cn,zh-cn
+他对财主说，“你想让我画什么？”,zh-cn,zh-cn,zh-cn
+大财主回答，“我想要一座金山，我要去那儿装金子。”,zh-cn,zh-cn,zh-cn
+但马良画了一片海。,zh-cn,zh-cn,zh-cn
+财主生气地说道：“你画海干什么？,zh-cn,zh-cn,zh-cn
+我要的是一座金山，你赶紧给我画出来！”,zh-cn,zh-cn,zh-cn
+于是马良就在离海很远的地方画了一座金山。,zh-cn,zh-cn,zh-cn
+财主说：“快给我画一艘大船！,zh-cn,zh-cn,zh-cn
+我要现在去那里装金子！”,zh-cn,zh-cn,zh-cn
+马良默不作声地笑了笑，画出了一艘大船。,zh-cn,zh-cn,zh-cn
+财主跳进船里便立刻前往出发去寻找金子，但当船行驶到海中央时，马良又画了一阵大浪，波浪将船掀翻，于是之后人们再也没有在村子里见过这个大财主。,zh-cn,zh-cn,zh-cn
+从那以后，马良与家人幸福地生活在一起，并如梦里老人吩咐的那样，继续用神笔去帮助那些穷苦老百姓。,zh-cn,zh-cn,zh-cn
+大家都听说了神笔的故事，并十分喜爱这支神奇的画笔。,zh-cn,zh-cn,zh-cn
+Era un chico pobre y amable al que le gustaba tanto dibujar que hacía dibujos por todas partes.,es,es,es
+"Una noche, soñó que un anciano le daba un pincel mágico y le pedía que lo usara para ayudar a los pobres.",es,es,es
+"Cuando se despertó, vio que el pincel mágico estaba sobre su escritorio.",es,es,es
+"A partir de ese día, utilizó el pincel siempre que los pobres necesitaban ayuda.",es,es,es
+"Cuando vio que la gente no tenía agua para regar los campos, dibujó un río y el río cobró vida.",es,es,es
+Ahora la gente podía llevar agua del río al campo para que crecieran sus cosechas.,es,es,es
+"Cuando vio que los campesinos tenían dificultades para alimentar a sus familias, dibujó más comida para ellos.",es,es,es
+"En muy poco tiempo, mucha gente se enteró de la existencia del pincel mágico y se mostraton muy agradecidos con Ma Liang.  ",es,es,es
+Pero en la aldea vivía un hombre rico muy mezquino que decidió robarle el pincel al joven para poder usarlo para hacer crecer aún más sus riquezas.,es,es,es
+Así que envió a sus sirvientes a casa de Ma Liang para que robaran el pincel mágico.,es,es,es
+"Una vez consiguió el pincel, se sintió tan feliz que invitó a sus amigos a su casa para enseñarles su nueva adquisición.",es,es,es
+"Comenzó a hacer muchos dibujos, pero ninguno de ellos cobró vida.",es,es,es
+Tal fue su enfado al ver que el pincel no funcionaba que mandó llamar a Ma Liang.,es,es,es
+"—Si me haces unos dibujos y haces que cobren vida, te pondré en libertad —le dijo al joven.",es,es,es
+"Ma Liang no quería ayudar a un hombre tan mezquino, pero se le ocurrió una idea.  ",es,es,es
+—¿Qué quiere que dibuje?,es,fr,es
+—le preguntó al malvado señor.,es,es,es
+— Quiero una montaña de oro —contestó el hombre rico—.,es,es,es
+Una montaña donde pueda ir a recoger oro.   ,es,es,es
+Pero el chico dibujó primero un mar.,es,es,es
+—¿Por qué has dibujado un mar?,es,es,es
+—el ricachón se enfadó y dijo—.,es,es,es
+Te he ordenado que dibujes una montaña de oro.,es,es,es
+¡Dibújala ahora mismo!,es,so,es
+Entonces el joven dibujó una montaña de oro que se veía a lo lejos en el mar.      ,es,es,es
+"—Dibuja un barco grande, rápido —volvió a ordenar el ricachón—.",es,es,es
+Un barco con el que pueda navegar hasta la montaña para recoger oro.,es,es,es
+El joven sonrió disimuladamente y dibujó un barco grande.,es,es,es
+"El hombre rico se subió al barco y partió en busca del oro, pero cuando el barco navegaba en medio del mar, Ma Liang dibujó una ola enorme que impactó contra el barco y lo mandó al fondo del mar.",es,es,es
+"Desde entonces, nadie volvió a ver jamás al hombre rico en la aldea.",es,es,es
+"Once upon a time there were three Billy-Goats Gruff; Little Billy-Goat, Middle-Sized Billy Goat and Great Big Billy-Goat, who lived in a field in a green valley.",en,en,en
+"They loved to eat sweet grass, but sadly their field was now brown and barren because they were greedy goats and they’d eaten every last blade of grass.",en,en,en
+But they were still hungry.,en,en,en
+"In the distance, they could see a field that was full of lush sweet scrummy grass, but alas there was only one way to get to it – over a rickety bridge over a stream.",en,en,en
+But under the bridge lived a terrifically terrifying terrible troll called Trevor – he was always hungry too.,en,en,en
+And there was nothing he liked better than to eat a nice juicy billy-goat.,en,en,en
+The Little Billy-Goat was the first to reach the bridge.,en,en,en
+"Gingerly, he put one hoof and then another onto the bridge.",en,en,en
+"But because it was so rickety, however hard he tried, his hoof still went trip trap, trip trap on the wooden planks.",en,en,en
+Suddenly there was a huge roar.  ,en,en,en
+‘Who’s that trip trapping over my bridge?’,en,en,en
+And out from under the bridge loomed the Troll.,en,en,en
+"Quaking in his hooves, Little Billy-Goat Gruff managed to squeak, ‘It’s only me.",en,en,en
+I’m only going to look for some grass to eat.’,en,en,en
+‘Oh no you’re not!,en,pt,en
+"I’m going to eat you for my breakfast, lunch and tea!’",en,en,en
+‘Oh no!’ said terrified Little Billy-Goat Gruff.,en,en,en
+‘I’m just Little Billy-Goat Gruff.,en,en,en
+Why don’t you wait for my brother?,en,en,en
+He’s bigger than me and much tastier.’,en,en,en
+So the greedy Troll decided to wait and Little Billy-Goat Gruff skipped over the bridge and began to eat the fresh green grass on the other side.,en,en,en
+The other goats saw Little Billy-Goat Gruff eating the fresh green grass and were jealous because they wanted some too.,en,en,en
+So Middle-Sized Billy-Goat Gruff went down to the bridge and began to cross the stream.,en,en,en
+"Trip, trap, trip, trap went his middle-sized hooves.",en,en,en
+Again the Troll loomed out from under the bridge.,en,en,en
+‘Who’s that trip trapping over my bridge?’,en,en,en
+he roared.  ,en,en,en
+"Quaking in his hooves, Middle-Sized Billy-Goat Gruff managed to say in his softest voice, ‘It’s only me.",en,en,en
+"I’m following my brother, Little Billy-Goat Gruff, so I can eat the sweet grass.’",en,en,en
+‘Oh no you’re not!,en,pt,en
+"* C’erano una volta tre capretti furbetti, un capretto piccolo, un capretto medio e un capretto grande, che vivevano sulla cima di un campo, in una valle verde.",it,it,it
+"Amavano mangiare l’erba dolce, ma ora, tristemente, il loro campo era marrone e brullo perché i capretti erano golosi e avevano mangiato tutta l’erba, lasciando solo radici e terra.",it,it,it
+"Nonostante ciò, avevano ancora fame.",it,it,it
+"In lontananza, riuscivano a vedere un campo zeppo d’erba da leccarsi i baffi, ma sfortunatamente c’era solo un modo in cui si poteva raggiungerlo – passando sopra un ponte traballante sopra a un ruscello.",it,it,it
+"Tuttavia, un troll terrificante e terribile abitava sotto il ponte - e aveva sempre fame.",it,it,it
+Il suo cibo preferito era un capretto buono e succoso.,it,it,it
+Il capretto piccolo fu il primo a raggiungere il ponte.,it,it,it
+"Con cautela, cominciò a salire sul ponte ma poiché era così traballante, e malgrado cercasse di attraversarlo in silenzio, i suoi zoccoli facevano troppo rumore sulle tavole di legno.  ",it,it,it
+"Clic, clac, clic, clac … All’improvviso ci fu un ruggito enorme.",it,it,it
+<< Chi osa attraversare il mio ponte?,it,it,it
+">> E dal sotto il ponte, il troll emerse.",it,it,it
+"Tremando di paura, il capretto piccolo chiamò a raccolta tutta la forza e rispose con una voce debole << Solo sono io.",it,it,it
+Cerco solo un po’ di erba da mangiare.,it,it,it
+>> << Non credo proprio!,it,es,it
+"Ti mangerò per colazione, pranzo e cena!",it,it,it
+">> << Oh no! >> disse il capretto, terrorizzato.",it,it,it
+<< Io sono solo il capretto piccolo.,it,it,it
+Perché non aspetti mio fratello?,it,it,it
+È più grande e anche più gustoso.,it,it,it
+">> * Quindi, il troll ingordo decise di aspettare e il capretto piccolo saltellò sopra il ponte e cominciò a mangiare l’erba fresca e verde dall’altro lato.",it,it,it
+Gli altri due capretti videro che il capretto piccolo stava mangiando quell’erba così fresca e verde e erano invidiosi perché ne volevano anche loro.,it,it,it
+Così il capretto medio scese al ponte e cominciò ad attraversare il ruscello.,it,it,it
+"Ma, come per il capretto piccolo, gli zoccoli del medio facevano tantissimo rumore sulle tavole di legno.",it,it,it
+"Clic, clac, clic, clac … Ancora una volta, il troll emerse da sotto il ponte.  ",it,it,it
+Ruggì il troll.,it,it,en
+"Tremando con terrore, il capretto medio riuscì a rispondere con una voce rammollita.",it,it,it
+<< Sono solo io.,it,it,it
+"Sto seguendo mio fratello, il capretto piccolo, per mangiare l’erba dolce.",it,it,it
+>> << Non credo proprio!,it,it,it
+"Ti mangerò per colazione, pranzo e cena!",it,it,it
+三兄弟都很喜欢甜美的青草，然而由于他们太贪吃，总是连一片叶子也不放过，现在他们生活的谷地已经光秃秃没有草可以吃了。,zh-cn,zh-cn,zh-cn
+可是，三兄弟还是觉得很饿。,zh-cn,zh-cn,zh-cn
+他们远远地看到，有一片田野上长满了茂盛又美味的青草。,zh-cn,zh-cn,zh-cn
+然而，想去那里只有一个办法：必须经过一座摇摇晃晃的桥。,zh-cn,zh-cn,zh-cn
+桥下有一条小溪，那儿住着一个非常非常可怕的巨人，特雷弗。,zh-cn,zh-cn,zh-cn
+他也常常感到饥饿，而且对他来说，没有比山羊更好吃的食物了。,zh-cn,zh-cn,zh-cn
+小格拉夫是第一个抵达那座桥的，他小心翼翼地把一只蹄子踏上去，然后再放上另一只。,zh-cn,zh-cn,zh-cn
+可是桥实在晃得太厉害了，不管他怎么努力，他的蹄子走在桥上时还是发出了嘎啦嘎啦的声音。,zh-cn,zh-cn,zh-cn
+突然，一声惊人的咆哮响起：    “是谁在我的桥上嘎啦嘎啦作响？” 巨人的身影出现在了桥下。,zh-cn,zh-cn,zh-cn
+小格拉夫颤抖着蹄子，挤出声音回答到：“是我，我只是想去到那边吃点儿草。”,zh-cn,zh-cn,zh-cn
+“噢，可惜你去不了了！,zh-cn,zh-cn,zh-cn
+我要把你当作早餐午餐还有茶点一起吃掉！”,zh-cn,zh-cn,zh-cn
+“不，不要啊！”,zh-cn,ko,zh-cn
+吓坏了的小格拉夫说。,zh-cn,zh-cn,zh-cn
+“我只是一只小山羊，你为什么不等我的哥哥来呢？,zh-cn,zh-cn,zh-cn
+他可比我大多了，也好吃多了。”,zh-cn,zh-cn,zh-cn
+* 贪心的巨人决定等待他的哥哥，于是便让小格拉夫过桥去吃草。,zh-cn,zh-cn,zh-cn
+另外两只山羊看到小格拉夫吃上了新鲜美味的青草，感到十分羡慕，也都想过去吃。,zh-cn,zh-cn,zh-cn
+于是格拉夫也来到了桥边想试着过桥，嘎啦，嘎啦，他移动着自己比小格拉夫大一号的蹄子。,zh-cn,zh-cn,zh-cn
+巨人的身影再次出现在了桥下。,zh-cn,zh-cn,zh-cn
+“是谁在我的桥上嘎啦嘎啦作响？”,zh-cn,zh-cn,zh-cn
+他咆哮着。,zh-cn,zh-cn,zh-cn
+格拉夫颤抖着蹄子，一边试着用最温柔的声音回答到：“是我。,zh-cn,zh-cn,zh-cn
+我跟着我的弟弟小格拉夫过来的，我也想去吃点儿草。”,zh-cn,zh-cn,zh-cn
+“噢，可惜你去不了了！,zh-cn,zh-cn,zh-cn
+我要把你当作早餐午餐还有茶点一起吃掉！”,zh-cn,ko,zh-cn
+“噢，不，巨人先生，你不会想吃掉我的。,zh-cn,zh-cn,zh-cn
+我不够大，填不饱你的肚子。,zh-cn,zh-cn,zh-cn
+还是等我大哥过来吧，他比我好吃多了。”    ,zh-cn,zh-cn,zh-cn
+“哦，好吧。”,zh-cn,zh-cn,zh-cn
+"Todos ellos, vivían en una pradera situada en un precioso valle verde.",es,es,es
+Les encantaba comer el dulce césped del valle.,es,ca,es
+"Sin embargo, su pradera se estaba volviendo cada vez más seca y menos fértil, porque eran unos cabritos muy glotones que se habían comido hasta la última hoja de césped.",es,es,es
+"Aun así, seguían teniendo más hambre.",es,es,es
+"En la distancia, podían ver una pradera repleta del césped más verde y delicioso que jamás habían visto, pero lamentablemente, la única forma de llegar a ella era a través de un tambaleante puente que cruzaba un arroyo.",es,es,es
+"Además, bajo ese mismo puente, vivía un terrible, terrorífico y tenebroso trol llamado Trevor que, al igual que los cabritos, siempre tenía un hambre voraz.",es,es,es
+"Y no había nada que más le gustara en el mundo, que unos apetitosos cabritos bien alimentados.",es,es,es
+El cabrito más pequeño fue el primero en llegar al puente.,es,es,es
+"Cautelosamente, fue poniendo una patita detrás de otra y comenzó a cruzar el puente.",es,es,es
+"Sin embargo, el tambaleo del puente hizo que las pezuñas del cabrito golpearan contra la madera con un fuerte traqueteo.",es,es,es
+"Y, de repente, se pudo escuchar un tremendo rugido.  ",es,es,es
+—¿Qué es ese traqueteo sobre mi puente?,es,fr,es
+El trol comenzó a asomarse amenazante debajo del puente.,es,es,es
+"El cabrito pequeño, temblando de miedo, se armó de valor para balar estas palabras: —Solo soy yo.",es,es,es
+Solo quería cruzar el puente para comer un poco de césped.,es,es,es
+"—¡De eso nada! ¡El que te va a comer soy yo de desayuno, comida y cena!",es,es,es
+"—¡No, por favor! —suplicó el cabrito pequeño—.",es,es,es
+Soy el cabrito más pequeño de la familia.,es,es,es
+¿Por qué no esperas a que llegue mi hermano?,es,es,es
+Es más grande y jugoso que yo.,es,es,es
+"* Tan avaricioso como era, el trol decidió esperar.",es,es,es
+El cabrito pequeño consiguió cruzar el puente y comenzó a degustar el césped fresco de la pradera.,es,es,es
+"Los otros cabritos vieron al más pequeño pastar, llenos de envía al querer estar en su misma posición.",es,es,es
+"Por ello, el cabrito mediano se acercó al puente y comenzó a cruzar el arroyo.",es,es,es
+Sus pezuñas comenzaron a traquetear tan pronto como tocaron la madera.,es,es,es
+"De nuevo, el trol se asomó desde debajo del puente.",es,es,es
+—¿Qué es ese traqueteo sobre mi puente?  ,es,es,es
+—volvió a rugir.  ,es,ca,es
+"Con las patitas temblando de miedo, el cabrito mediano dijo con su voz más suave: —Solo soy yo.",es,es,es
+Seguía los pasos de mi hermanito pequeño para comer un poco de césped.,es,es,es
+Yasin’s family moved from Iraq to England when he was just a young boy.,en,en,en
+Yasin did not want to leave his home in Samarra but his father said that it was best for the family because it was not safe to live there anymore and he wanted his son to grow up in a country that was accepting of all people.,en,en,en
+Yasin’s father told his son that England was a multicultural country where people lived and worked together regardless of race or religious beliefs.,en,en,en
+"Although Yasin was not happy about leaving Iraq, he soon settled into his new life in a big city called London.",en,en,en
+"London was very exciting with its tall buildings and museums, and Yasin especially liked the London Planetarium and the big River Thames with all of its old bridges.",en,en,en
+"Yasin even made friends with a boy who lived next door, called Andrew.",en,en,en
+"All summer long, Andrew and Yasin played in the park or went to the zoo with Andrew’s mum.",en,en,en
+Andrew shared his toys and his comics with Yasin and told him all about his favourite superheroes.,en,en,en
+They even built a camp in Yasin’s back garden where they would hide from the grownups.,en,en,en
+The summer was a fun time and young Yasin soon felt quite at home in London even though it was a very big city and not nearly as sunny and hot as it was in Samarra.,en,en,en
+"His English got better and better, especially with help from Andrew, although there were a lot of words that Yasin did not understand and he often felt silly because he couldn’t speak as well as he would like.",en,en,en
+"When September finally came around and the leaves began to fall from the trees, Yasin’s father explained that it was time for his son to go to school.",en,en,en
+Yasin was seven years old so he would be going to year three of the local primary school – the same year as his friend Andrew!,en,en,en
+"Although Yasin was very nervous about going to school, his father and mother assured him that it would be a fun place where he would meet lots of new friends and learn lots of interesting new things.",en,en,en
+"‘English schools are supposed to be very good,’ said Yasin’s mother.",en,en,en
+"‘And your English will get better in no time,’ assured his father.",en,en,en
+"Yasin was still not convinced, but when Andrew knocked on the door that morning with a big smile on his face saying how fun it was going to be at school, Yasin felt much better because he trusted his friend.",en,en,en
+The two boys chatted all the way to the school gates.,en,en,en
+Andrew told Yasin about the playground and who was the best teacher and what boys were the most fun and what girls were pretty and how they often served custard for pudding at lunchtimes.,en,en,en
+"Yasin did not know what custard was, but Andrew looked very excited about it so Yasin thought it must taste very good.",en,en,en
+"But when the boys got to their class, things did not go how Yasin imagined they would.",en,en,en
+The teacher told Andrew to take a seat at the front of the class as she introduced Yasin to the rest of the children.,en,en,en
+He did not like standing up in front of the class and one boy shouted that he was a smelly foreigner.,en,en,en
+"The boys and girls all laughed, and then another boy made fun of Yasin’s accent when he was asked to say his name and where he came from.",en,en,en
+"‘I can’t understand him, miss.",en,de,en
+"He can’t even speak English,’ said the nasty boy.",en,en,en
+"Finally, Yasin was allowed to take a seat at the back of the class but he wished that he was sitting next to Andrew as he felt very alone.",en,en,en
+"The girl sitting beside him kept looking at him in a strange way that made Yasin uncomfortable, and during the lesson she put her hand up and asked the teacher if she could move places.",en,en,en
+Yasin did not understand what he had done to offend the girl.,en,en,en
+"When the bell went, it was time to go out into the playground.",en,en,en
+Yasin non voleva lasciare la sua casa a Samarra;,it,it,it
+"ma suo padre gli disse che era la cosa migliore da fare per la famiglia, dato che non era più sicuro vivere là, e voleva che suo figlio crescesse in un paese che accettasse chiunque.",it,it,it
+"Il padre di Yasin disse a suo figlio che l’Inghilterra era un paese multiculturale dove le persone vivevano e lavoravano insieme, indipendentemente dalla loro etnia e fede religiosa.  ",it,it,it
+"Sebbene Yasin non fosse contento di lasciare l’Iraq, egli si abituò presto alla sua nuova vita in una grande città chiamata Londra.",it,it,it
+"Londra era molto interessante con i suoi grandi edifici e musei, e a Yasin piacque specialmente il Planetario di Londra e il grande fiume Tamigi con tutti i suoi antichi ponti.",it,it,it
+Yasin fece persino amicizia con un bambino che viveva accanto a casa sua che si chiamava Andrew.,it,it,it
+"Durante tutta l’estate, Andrew e Yasin giocavano al parco o andavano allo zoo con la madre di Andrew.",it,it,it
+Andrew condivideva i suoi giochi e i suoi fumetti con Yasin e gli raccontava tutto a proposito dei suoi supereroi preferiti.,it,it,it
+Costruirono addirittura un campeggio nel giardino di casa di Yasin dove si sarebbero nascosti dagli adulti.,it,it,it
+"L’estate fu molto divertente e il giovane Yasin si sentì presto abbastanza a suo agio a Londra, sebbene fosse davvero una grande città e neanche lontanamente calda e assolata come lo era Samarra.",it,it,it
+"Il suo inglese migliorò sempre di più, specialmente grazie all’aiuto di Andrew, anche se Yasin non capiva molte parole e si sentiva ridicolo, dato che lui non riusciva a parlare tanto bene quanto avrebbe voluto.",it,it,it
+"Quando settembre finalmente arrivò e le foglie iniziarono a cadere dagli alberi, il padre di Yasin spiegò a suo figlio che era giunto per lui il momento di andare a scuola.",it,it,it
+"Yasin aveva sette anni, quindi sarebbe dovuto andare in seconda elementare nella scuola di zona – nella stessa classe del suo amico Andrew!",it,it,it
+"Anche se Yasin era molto nervoso all’idea di andare a scuola, suo padre e sua madre lo rassicurarono dicendogli che sarebbe stato un posto divertente dove avrebbe conosciuto tanti nuovi amici e imparato molte cose nuove e interessanti.  ",it,it,it
+"‘Le scuole inglesi sono considerate molto buone’, disse la madre di Yasin.  ",it,it,it
+"‘E imparerai alcune cose davvero interessanti e il tuo inglese migliorerà in un attimo,’ assicurò suo padre.  ",it,it,it
+"Yasin non era ancora convinto, ma quando Andrew bussò alla porta quella mattina con un grande sorriso sulla sua faccia dicendo quanto divertente la scuola sarebbe stata, Yasin si sentì molto meglio perché si fidava del suo amico.  ",it,it,it
+I due bambini chiacchierarono durante tutto il tragitto fino al cancello di scuola:,it,it,it
+"Andrew disse a Yasin dell’area giochi, chi era il maestro migliore e quali bambini erano i più divertenti e quali bambine erano le più carine, e di come spesso servivano crema pasticcera con il dolce durante la pausa pranzo.",it,it,it
+"Yasin non sapeva che cosa fosse la crema pasticcera, ma Andrew sembrava molto contento, quindi Yasin pensò che sarebbe stata molto buona.",it,it,it
+"Ma quando i bambini arrivarono nella loro classe, le cose non andarono come Yasin aveva immaginato.",it,it,it
+La maestra disse a Andrew di sedersi davanti alla classe mentre presentava Yasin al resto dei bambini.,it,it,it
+A lui non piacque stare in piedi davanti alla classe e un bambino gli urlò che era uno straniero puzzolente.,it,it,it
+"Tutti i bambini e le bambine risero, e poi un altro bambino prese in giro Yasin per il suo accento, dopo che gli venne chiesto qual era il suo nome e da dove veniva.  ",it,it,it
+"‘Non lo capisco, maestra.",it,es,it
+Non può nemmeno parlare inglese’ disse l’odioso bambino.  ,it,it,it
+"Finalmente Yasin poté sedersi in fondo alla classe, ma avrebbe voluto sedersi vicino ad Andrew dato che si sentiva molto solo.",it,it,it
+"La bambina seduta vicino a lui continuava a guardarlo in una maniera così strana che fece sentire Yasin a disagio, e durante la lezione alzò la mano e chiese alla maestra se poteva cambiare posto.",it,it,it
+Yasin non capiva che cosa aveva fatto per offendere la bambina.  ,it,it,it
+"Quando la campana suonò, era giunto il momento di uscire e andare nell’area giochi.",it,it,it
+亚森并不想离开萨麦拉的家，但是爸爸说离开是为了全家人好，因为住在那里已经不安全了，而且他想让儿子在能够在一个包容接纳所有人的国家里长大。,zh-cn,zh-cn,zh-cn
+亚森的爸爸告诉儿子，英格兰是个文化多元的国家，来自不同种族和信仰的人都能在那里一起生活和工作。,zh-cn,zh-cn,zh-cn
+虽然亚森并不高兴离开伊拉克，但他还是很快融入了在大城市伦敦的新生活。,zh-cn,zh-cn,zh-cn
+伦敦是个非常让人兴奋的城市，它有许多的高楼大厦和博物馆。,zh-cn,zh-cn,zh-cn
+亚森特别喜欢伦敦天文馆，还有长长的泰晤士河和河上的那些老桥。,zh-cn,zh-cn,zh-cn
+亚森还和住在隔壁的小男孩安德鲁成为了朋友。,zh-cn,zh-cn,zh-cn
+整个夏天，安德鲁和亚森都在公园里玩耍，或者和安德鲁的妈妈一起去动物园。,zh-cn,zh-cn,zh-cn
+安德鲁和亚森分享他的玩具和漫画，告诉他所有自己最喜欢的超级英雄。,zh-cn,zh-cn,zh-cn
+他们甚至在亚森家的后花园搭了一座帐篷，躲在里面让大人们找不着。,zh-cn,zh-cn,zh-cn
+那个夏天充满乐趣，尽管这个城市很大，也不像萨麦拉一样晴朗炎热，小亚森还是很快就在伦敦找到了家的感觉。,zh-cn,zh-cn,zh-cn
+他的英语越来越好，尤其是在安德鲁的帮助下。,zh-cn,zh-cn,zh-cn
+虽然亚森还是有很多不明白的单词，也经常会因为说得没有希望的那么好而感觉自己有些傻。,zh-cn,zh-cn,zh-cn
+九月终于来了，树上的叶子开始掉落。,zh-cn,zh-cn,zh-cn
+亚森的爸爸告诉儿子，该到了上学的时候了。,zh-cn,zh-cn,zh-cn
+亚森那时7岁，所以要去当地小学的三年级——和朋友安德鲁同一年级。,zh-cn,zh-cn,zh-cn
+尽管亚森为要去上学而感到非常紧张，但他的父母向他保证那会是个有趣的地方。,zh-cn,zh-cn,zh-cn
+他在那里会遇到很多新朋友，还会学到很多有趣的新事物。,zh-cn,zh-cn,zh-cn
+‘英国的学校应该是非常好的。,zh-cn,zh-cn,zh-cn
+亚森妈妈说。,zh-cn,zh-cn,zh-cn
+‘还有，你会学到一些非常有趣的事，你的英语也很快就会变得越来越好。’,zh-cn,zh-cn,zh-cn
+亚森爸爸保证道。,zh-cn,zh-cn,zh-cn
+亚森并没有被说服，但是当那天早上安德鲁来敲门，脸上挂着大大的微笑向他讲述学校有多好玩的时候，亚森感觉好多了，因为他相信自己的朋友。,zh-cn,zh-cn,zh-cn
+两个男孩走向学校大门，聊了一路：安德鲁和亚森讲起了操场，谁是最好的老师，男孩子们都特别好玩，女孩子们都很漂亮，还有他们午餐时间怎么用奶油冻配布丁。,zh-cn,zh-cn,zh-cn
+亚森并不知道奶油冻是什么，但是看安德鲁说起它时那么兴奋，亚森觉得肯定非常好吃。,zh-cn,zh-cn,zh-cn
+但是当他们进入教室，事情并没有像亚森想象的那样进行。,zh-cn,zh-cn,zh-cn
+老师让安德鲁坐在教室前排，并向其他同学介绍亚森。,zh-cn,zh-cn,zh-cn
+他不喜欢这样站在全班面前，还有个男孩大声说他是臭乎乎的外国人。,zh-cn,zh-cn,zh-cn
+男孩女孩们都大笑起来，老师让亚森介绍自己的名字和来自哪里的时候，另一个男孩取笑他的口音。,zh-cn,zh-cn,zh-cn
+‘我听不明白他说什么，老师。,zh-cn,zh-cn,zh-cn
+他甚至都不会说英语，’ 那个淘气的男孩说。,zh-cn,zh-cn,zh-cn
+"Yasin no quería dejar su casa en Samarra, pero su padre decía que era lo mejor para su familia porque ya no era seguro vivir allí y él quería que su hijo creciera en un país donde se aceptase a todo el mundo.",es,es,es
+"El padre de Yasin le contó a su hijo que Inglaterra era un país multicultural, donde la gente vivía y trabajaba en armonía, sin importar la raza o religión del otro.",es,es,es
+"Aunque a Yasin no le gustaba la idea de dejar Irak, pronto se acostumbró a su nueva vida en una gran ciudad llamada Londres.",es,es,es
+"Londres, con sus edificios altos y museos, era verdaderamente fascinante.",es,es,es
+"Lo preferido de Yasin era el Planetario de Londres, y el gran río Támesis con todos sus puentes antiguos.",es,es,es
+"Yasin incluso se hizo amigo del chico que vivía en la casa de al lado, Andrew.",es,es,es
+"Durante todo el verano, Andrew y Yasin jugaron en el parque y fueron al zoo con la madre de Andrew.",es,es,es
+"Andrew compartía sus juguetes y cómics con Yasin y le contó todo sobre sus superhéroes favoritos, ¡hasta construyeron un campamento en el jardín trasero de Yasin para esconderse de los mayores!",es,es,es
+"El verano fue divertido y Yasin pronto se sintió en Londres como en casa, a pesar de que fuese una ciudad muy grande y estuviese lejos de ser tan soleada y calurosa como lo era Samarra.",es,es,es
+"Su inglés mejoraba más y más, en especial gracias a la ayuda de Andrew, aunque había palabras que Yasin no entendía y a veces se sentía tonto al no poder hablar tan bien como quisiera.",es,es,es
+"Cuando las hojas empezaron a caer de los árboles, por fin llegó septiembre y los padres de Yasin le explicaron que era el momento de que fuese al colegio.",es,es,es
+"Yasin tenía siete años y entraría en el primer curso de primaria en el colegio de su barrio, ¡el mismo curso que Andrew!",es,es,es
+"Aunque Yasin estaba muy nervioso por empezar el colegio, sus padres le aseguraron que sería divertido y que allí haría muchos amigos y aprendería muchas cosas interesantes.  ",es,es,es
+"""Dicen que los colegios en Inglaterra son muy buenos,"" dijo su madre.  ",es,es,es
+"""Aprenderás cosas muy interesantes y tu inglés mejorará en muy poco tiempo,"" le aseguró su padre.",es,es,es
+Yasin seguía sin estar convencido.,es,es,es
+"Cuando Andrew llamó a la puerta esa misma mañana con una sonrisa de oreja a oreja diciendo lo bien que se lo pasarían en el colegio, Yasin se empezó a sentir mucho mejor porque él confiaba en su amigo.",es,es,es
+Los dos amigos hablaron hasta llegar a la puerta del colegio.,es,es,es
+"Andrew le contó a Yasin quién era el mejor profesor, también le habló del patio donde saldrían a jugar, sobre los chicos más divertidos y las chicas más guapas, y de que habría natillas de postre en el comedor.",es,es,es
+"Yasin no sabía lo que eran las natillas, pero Andrew parecía muy emocionado así que Yasin pensó que estarían muy buenas.",es,es,es
+"Cuando llegaron a clase, las cosas no fueron tan bien como imaginaron.",es,es,es
+La profesora le dijo a Andrew que se sentara mientras presentaba a Yasin a los demás niños.,es,es,es
+A él no le gustaba estar delante de toda la clase.,es,es,es
+"Un niño levantó la voz diciendo que era un “sucio intruso” a lo que todos los demás rieron, y otro niño se rio de su acento cuando dijo cuál era su nombre y el país del que venía.",es,es,es
+"""No le entiendo, profesora.",es,es,es
+"No puede ni hablar bien inglés,"" exclamó el chico con muy mala intención.",es,es,es
+"Cuando terminó, Yasin se sentó al final de la clase, pero deseaba estar al lado de Andrew ya que se sentía muy solo.",es,es,es
+"La chica a su lado le miraba de forma extraña, lo cual le hacía sentir muy incómodo.",es,es,es
+"Durante la clase, levantó la mano para preguntar a la profesora si podía cambiarse de sitio ya que Yasin no entendía bien qué había hecho para desagradar a la chica.",es,es,es
+"Cuando llegó la hora del recreo, todos los niños cerraron los libros y se abrigaron para salir afuera al sol de otoño.",es,es,es
+"All right, cest la vie!",en,fr,en
+Let's go to café.,en,fr,es
+Vado a the park dopo.,it,pt,en
+"Ok, se vuoi possiamo talk domani, but non so, maybe after dinner va bene.",it,no,it
+我爱Beijing,zh-cn,sw,zh-cn
+"洋气不洋气, City不City",zh-cn,en,zh-cn
+Voy a la fiesta this afternoon.,es,en,en
+"Tengo un gato, and tomorrow voy al cinéma avec mis amigos.",es,en,es
