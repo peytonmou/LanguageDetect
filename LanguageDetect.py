@@ -8,6 +8,7 @@ from lingua import Language, LanguageDetectorBuilder
 from sklearn.metrics import confusion_matrix, f1_score 
 
 # Define urls of 3 books(each has 4 language versions) for web scraping
+# Extract content from websites
 book_urls = {'The-Magic-Paintbrush':{'english': 251, 'italian': 697, 'mandarin': 632, 'spanish': 699},
     'The-Three-Billy-Goats-Gruff':{'english': 254, 'italian': 1137, 'mandarin': 872, 'spanish': 715},
     'A-Good-Friend': {'english': 335, 'italian': 683, 'mandarin': 831, 'spanish': 686}}
