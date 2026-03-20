@@ -22,18 +22,10 @@ This project compares two language detection libraries - `langdetect` and `lingu
 ```bash
 git clone https://github.com/yourusername/language-detection-comparison.git
 cd language-detection-comparison
-pip install -r requirements.txt
+pip install requests==2.31.0 beautifulsoup4==4.12.2 pandas==2.0.3 spacy==3.7.2 langdetect==1.0.9 lingua-language-detector==1.3.2 scikit-learn==1.3.0
 
 python -m spacy download en_core_web_sm
 python -m spacy download es_core_news_sm
 python -m spacy download it_core_news_sm
 python -m spacy download zh_core_web_sm
 
-## Requirements
-requests==2.31.0
-beautifulsoup4==4.12.2
-pandas==2.0.3
-spacy==3.7.2
-langdetect==1.0.9
-lingua-language-detector==1.3.2
-scikit-learn==1.3.0
